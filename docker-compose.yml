@@ -2,7 +2,7 @@ version: '3'
 services:
   nginx:
     container_name: nginx-phpmyadmin
-    image: registry.digitalocean.com/eterlabs/nginx-php72
+    image: eterlabs/nginx-php72
     volumes:
       - ./phpmyadmin:/var/www/html
       - ./config/nginx.conf:/etc/nginx/conf.d/default.conf
