@@ -5,3 +5,6 @@ code/
 !bin
 !.gitignore
 !docker-compose.yml
+!phpmyadmin
+phpmyadmin/config.sample.inc.php
+phpmyadmin/tmp
