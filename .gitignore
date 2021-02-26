@@ -8,3 +8,4 @@ code/
 !phpmyadmin
 phpmyadmin/config.sample.inc.php
 phpmyadmin/tmp
+phpmyadmin/config.inc.php
