@@ -10,5 +10,5 @@ services:
       - ./config/eterlabs.dev.pem:/etc/ssl/eterlabs.dev.pem
       - ./config/eterlabs.dev.key:/etc/ssl/eterlabs.dev.key
     ports:
-      - "9081:80"
-      - "9081:443"
+      - "80:80"
+      - "443:443"
