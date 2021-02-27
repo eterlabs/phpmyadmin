@@ -9,6 +9,7 @@ services:
       - ./config/php.ini:/etc/php/7.2/fpm/php.ini
       - ./config/eterlabs.dev.pem:/etc/ssl/eterlabs.dev.pem
       - ./config/eterlabs.dev.key:/etc/ssl/eterlabs.dev.key
+      - /config/.bash_history:/root/.bash_history
     ports:
       - "8082:80"
       - "4432:443"
