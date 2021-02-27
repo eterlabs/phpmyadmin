@@ -10,7 +10,7 @@ services:
       - ./config/eterlabs.dev.pem:/etc/ssl/eterlabs.dev.pem
       - ./config/eterlabs.dev.key:/etc/ssl/eterlabs.dev.key
     ports:
-      - "8081:80"
-      - "4431:443"
+      - "8082:80"
+      - "4432:443"
     extra_hosts:
       - "host.docker.local:host-gateway"
