@@ -6,6 +6,7 @@ code/
 !.gitignore
 !docker-compose.yml
 !phpmyadmin
+!README.md
 phpmyadmin/config.sample.inc.php
 phpmyadmin/tmp
 phpmyadmin/config.inc.php
