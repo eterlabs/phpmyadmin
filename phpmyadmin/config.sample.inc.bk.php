@@ -93,7 +93,7 @@ $cfg['SaveDir'] = '';
  * set contains more rows, "Previous" and "Next".
  * Possible values: 25, 50, 100, 250, 500
  * default = 25
- */ 
+ */
 //$cfg['MaxRows'] = 50;
 
 /**
