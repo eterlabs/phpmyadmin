@@ -1,3 +1,19 @@
+![alt text](https://www.eterlabs.com/wp-content/uploads/2021/02/cropped-eterlabs-2.png)
+
+Este repositorio fue generado para aprender a montar PhpMyAdmin usando las imágenes de Docker de Eterlabs, estas imágenes las creamos basadas en los requerimientos internos para desarrollo por lo tanto no es recomendable usarlas para ambientes productivos.
+
+
+Si te gusta este repositorio y te gustaría poder obtener más herramientas de desarrollo, síguenos en nuestras redes sociales.
+
+
+* [Facebook](https://www.facebook.com/eterlabsmx)
+* [Instagram](https://www.instagram.com/eterlabsmx/)
+* [LinkedIn](https://www.linkedin.com/company/eterlabs)
+
+
+Si te gustaría sugerir contenido o módulos envíanos un correo a contacto@eterlabs.com
+
+Para usar este repositorio sigue los siguientes pasos:
 
 #### Requerimiento Previos
 
